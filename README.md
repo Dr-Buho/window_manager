@@ -1,5 +1,11 @@
 # window_manager
 
+# FOCUS ME
+
+1. The reason to extract this plugin is that need control multi window communicate channel stable.
+2. The modify is hold each flutter engine on every window instance to avoid channel chaos. 
+
+
 [![pub version][pub-image]][pub-url] [![][discord-image]][discord-url] ![][visits-count-image] [![All Contributors][all-contributors-image]](#contributors)
 
 [pub-image]: https://img.shields.io/pub/v/window_manager.svg
